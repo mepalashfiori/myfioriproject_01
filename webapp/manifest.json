@@ -12,7 +12,7 @@
 		"resources": "resources.json",
 		"dataSources": {
 			"mainService": {
-				"uri": "/NS4CLNT800/sap/opu/odata/sap/ZPG_FRUITS_SRV/",
+				"uri": "/sap/opu/odata/sap/ZPG_FRUITS_SRV/",
 				"type": "OData",
 				"settings": {
 					"odataVersion": "2.0",
